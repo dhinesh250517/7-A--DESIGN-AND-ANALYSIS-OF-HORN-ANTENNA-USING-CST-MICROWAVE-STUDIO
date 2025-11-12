@@ -23,6 +23,11 @@ sing
 U a	L  2 we get a=110 mm for both E and H plane.
 8
 
+** GRAPH
+
+![WhatsApp Image 2025-11-11 at 15 44 48_7b4a25ac](https://github.com/user-attachments/assets/9dccf4ef-c5d7-4b76-a75c-34f5031a2bf2)
+
+
 **Design of Horn Antenna**
 
 <img width="580" height="172" alt="image" src="https://github.com/user-attachments/assets/6e6c4030-74e3-463e-b6d7-0a0c99a0e577" />
@@ -41,6 +46,18 @@ U a	L  2 we get a=110 mm for both E and H plane.
 
 **Conclusion**
 
+
+
 From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15
+
+**RESULT 
+
+
+Thus the polar pattern and the gain of a waveguide horn antenna and parabolic antenna was measured and plotted.
+
+
+Beamwidth of parabolic antenna :  20
+
+
 
 
